@@ -10,6 +10,11 @@
 #   git rm -r .ipynb_checkpoints/
 #
 
+# zip file ignore and dataset
+dataset
+Data_Pandas Deep Dive.zip
+
+
 ### macOS ###
 # General
 .DS_Store
